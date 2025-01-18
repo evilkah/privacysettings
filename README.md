@@ -10,7 +10,7 @@
 
 
 ## Privacy Settings
-- <img src="icons/amazon.png" width="20" align="center"> [Amazon](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Amazon.md)
+- <img src="icons/amazon.png" width="20" align="center"> [Amazon](https://github.com/evilkah/privacysettings/blob/main/web%20%26%20apps/Amazon.md)
 - <img src="icons/android.png" width="20" align="center"> [Android 11](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-11.md)
 - <img src="icons/android.png" width="20" align="center"> [Android 12/12.1](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-12.md)
 - <img src="icons/android.png" width="20" align="center"> [Android 13](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Android-13.md)
