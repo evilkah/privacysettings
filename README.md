@@ -11,7 +11,6 @@
 
 ## Privacy Settings
 - <img src="icons/amazon.png" width="20" align="center"> [Amazon](https://github.com/evilkah/privacysettings/blob/main/web%20%26%20apps/Amazon.md)
-- <img src="icons/amazon.png" width="20" align="center"> [Amazon](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Amazon.md)
 - <img src="icons/apple.png" width="20" align="center"> [Apple Account](https://github.com/evilkah/privacysettings/blob/main/web%20%26%20apps/Apple-Account.md)
 - <img src="icons/brave.png" width="20" align="center"> [Brave Desktop](https://github.com/evilkah/privacysettings/blob/main/web%20%26%20apps/Brave.md)
 - <img src="icons/chatgpt.png" width="20" align="center"> [ChatGPT](https://github.com/evilkah/privacysettings/blob/main/web%20%26%20apps/ChatGPT.md)
